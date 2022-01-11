@@ -1,6 +1,6 @@
 <header>
   <div class="logocontainer">
-    <!-- <img src="" alt=""> -->
+    <img src="https://picsum.photos/200/300" alt="">
   </div>
   <nav>
     <ul>
